@@ -1,4 +1,5 @@
 requests
 cryptography
+numpy
 pandas
 scipy
